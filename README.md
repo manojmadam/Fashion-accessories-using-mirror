@@ -13,14 +13,14 @@ It capturing the user's image through a webcam or camera, the system employs adv
 
 <h3>Step 1:</h3> 
 Please install any Python Environment or IDE such as PyCharm...<br>
-Search <b>main.py</b> python file located in <b>Project-->MainCode.py</b> directory...<br>
+Search <b>main.py</b> python file located in <b>Project-->Main.py</b> directory...<br>
 
 <h3>Step 2:</h3> 
-Now open PyCharm and move to specific location that contain <b>MainCode.py</b> file...<br>
+Now open PyCharm and move to specific location that contain <b>Main.py</b> file...<br>
 
 <h3>Step 3:</h3> 
 Now type following command to run project...<br>
-<b>python MainCode.py</b><br>
+<b>python Main.py</b><br>
 
 <h3>Step 4:</h3> 
 After successfully completing run process you will get one <b>URL(local host url)</b>...<br>
